@@ -19,10 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=passer12&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passer12&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-        <td style="color: black; padding: 4px;">Your 90-day avg: </td>
-        <td style="padding: 4px;"><b>00:00</b></td>
-      </tr>
-    </tbody></table></span></div></div><div id="highcharts-screen-reader-region-after-0" aria-hidden="false" style="position: relative;"><div aria-hidden="false" style="position: absolute; width: 1px; height: 1px; overflow: hidden; white-space: nowrap; clip: rect(1px, 1px, 1px, 1px); margin-top: -3px; opacity: 0.01;"><div id="highcharts-end-of-chart-marker-0" class="highcharts-exit-anchor" tabindex="0" aria-hidden="false">End of interactive chart.</div></div></div></div>
-
-  </div>
-</turbo-frame>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
