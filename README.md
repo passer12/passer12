@@ -20,4 +20,10 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passer12&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   53 mins         █████████████████████████   99.92 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
 <!--END_SECTION:waka-->
