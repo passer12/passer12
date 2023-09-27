@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Assembly       4 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-C              3 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
-JavaScript     2 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-Objective-C    2 hrs 43 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-Python         1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
+Assembly       3 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
+JavaScript     2 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+Objective-C    2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
+Python         1 hr 56 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+C              1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
 ```
 
 <!--END_SECTION:waka-->
