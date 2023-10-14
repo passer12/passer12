@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=passer12&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20950%26project%3D%26in%3D0)](https://codetime.dev)
+
 <!--START_SECTION:waka-->
 the most recent week
 
@@ -32,4 +34,3 @@ PHP              43 mins         ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20950%26project%3D%26in%3D0)](https://codetime.dev)
