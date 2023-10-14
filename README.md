@@ -22,14 +22,13 @@ Here are some ideas to get you started:
 [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D20950%26project%3D%26in%3D0)](https://codetime.dev)
 
 <!--START_SECTION:waka-->
-the most recent week
 
 ```txt
-C                14 hrs 43 mins  ██████████████▒░░░░░░░░░░   56.79 %
-C++              3 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
-SWIG             3 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-Markdown         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-PHP              43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+C                14 hrs 48 mins  ██████████▓░░░░░░░░░░░░░░   43.11 %
+C++              4 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Prolog           3 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+SWIG             3 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Python           2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
 ```
 
 <!--END_SECTION:waka-->
