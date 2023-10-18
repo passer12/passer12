@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C                10 hrs 14 mins  ███████▓░░░░░░░░░░░░░░░░░   31.16 %
-C++              7 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
-Prolog           4 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.89 %
-Python           2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-SWIG             2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+C                9 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   31.20 %
+C++              9 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.76 %
+Prolog           4 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
+Python           2 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Objective-C      1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->
