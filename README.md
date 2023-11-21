@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++            17 hrs 57 mins  ███████████████▒░░░░░░░░░   60.69 %
-C              5 hrs 10 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.49 %
-Python         4 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Other          1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Makefile       31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
