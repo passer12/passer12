@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++           11 hrs 52 mins  █████████████▓░░░░░░░░░░░   54.81 %
+C             4 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.69 %
+Python        4 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+Makefile      31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Other         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
