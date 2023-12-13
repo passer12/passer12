@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C             11 hrs 12 mins  ██████████░░░░░░░░░░░░░░░   39.48 %
-C++           6 hrs 51 mins   ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-JavaScript    2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-Other         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %
-Solidity      1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+C             11 hrs 11 mins  █████████▒░░░░░░░░░░░░░░░   37.97 %
+C++           10 hrs 50 mins  █████████▒░░░░░░░░░░░░░░░   36.77 %
+Other         2 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
+Text          47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Makefile      44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
