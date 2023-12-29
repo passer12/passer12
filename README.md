@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          11 hrs 13 mins  ██████████████▒░░░░░░░░░░   56.74 %
-C            3 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
-Git Config   1 hr 5 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-CSS          1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Other        53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+PHP          10 hrs 29 mins  ███████████████▒░░░░░░░░░   60.83 %
+C            1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+Git Config   1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+CSS          1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Batchfile    48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->
