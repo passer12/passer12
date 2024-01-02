@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C           1 hr 9 mins     ███████████████░░░░░░░░░░   59.65 %
-Other       36 mins         ████████░░░░░░░░░░░░░░░░░   31.91 %
-Batchfile   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Assembly    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-PHP         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python       15 mins         █████████████░░░░░░░░░░░░   51.59 %
+Batchfile    9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.91 %
+Solidity     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+JavaScript   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
