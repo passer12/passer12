@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       15 mins         ██████████████████▓░░░░░░   74.73 %
-Solidity     2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
