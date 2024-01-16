@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++           4 hrs 18 mins   ███████████░░░░░░░░░░░░░░   43.82 %
-Other         2 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
-C             1 hr 50 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-Assembly      54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-Makefile      29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+C++           8 hrs 20 mins   ████████████▓░░░░░░░░░░░░   50.28 %
+C             3 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
+Other         2 hrs 55 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.67 %
+Assembly      1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Makefile      35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
 ```
 
 <!--END_SECTION:waka-->
