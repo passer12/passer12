@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python       28 mins         ████████████▒░░░░░░░░░░░░   49.09 %
+Text         15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
+YAML         8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+INI          6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
