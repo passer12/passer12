@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++          0 secs          ███████████████▓░░░░░░░░░   62.60 %
+C            0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
+Bash         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+INI          0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Markdown     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
