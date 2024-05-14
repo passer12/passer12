@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Bash       13 mins         ████████████░░░░░░░░░░░░░   47.68 %
-JSON       8 mins          ███████▒░░░░░░░░░░░░░░░░░   29.47 %
-C++        3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
-Makefile   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
