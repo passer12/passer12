@@ -24,11 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-CMake      8 mins          ██████████████▒░░░░░░░░░░   57.47 %
-C++        3 mins          ██████░░░░░░░░░░░░░░░░░░░   24.28 %
-Makefile   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-Diff       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+C++   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
