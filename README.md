@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 min           ███████████▓░░░░░░░░░░░░░   46.90 %
-C++        0 secs          █████████░░░░░░░░░░░░░░░░   35.78 %
-Other      0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
