@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C      1 hr 15 mins    ████████████████████▓░░░░   82.67 %
-Text   15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+C      37 mins         █████████████████████████   99.98 %
+Bash   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
